@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-	printf("TERZYK KONFITURA");
+	printf("TERZYK KONFIDENT");
 	return 0;
 }
